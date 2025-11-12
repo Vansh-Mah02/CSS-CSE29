@@ -1,0 +1,22 @@
+p{
+    color:aqua;
+    font-size: 25px;
+}
+.lor{
+    color:#FF00FF;
+}
+
+.me{
+    color:blue; text-align: center;
+}
+#me1{
+    color:brown;
+}
+div{
+    height:200px; 
+    width:200px; 
+    background-color: aqua; 
+    text-align: center; 
+    align-content: center;
+    padding: 5px;
+}
