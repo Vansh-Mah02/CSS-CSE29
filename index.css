@@ -1,0 +1,11 @@
+div{
+    border:5px solid black;
+}
+h1{
+    color:blueviolet;
+    text-align: center;
+}
+p{
+    color:red;
+    padding: 0px 5px;
+}
